@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# #IDontBuyIt
 
-You can use the [editor on GitHub](https://github.com/idontbuyit/idontbuyit.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### #IDontBuyIt is the idea that as informed citizens, it is our duty to remove the financial incentive for false, misleading, polarizing, fake or alarmist news and instead support balanced, fair, investigative journalism.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How does this work?
 
-### Markdown
+As an organized group centered around a common goal, we will do the following things to make it financially unwise to advertise on disreputable outlets:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- We will conduct educational campaigns raising awareness that these companies are financially supporting organizations who spread propaganda and misinformation, and underreport or suppress the truth.
+- We will boycott these companies and urge our friends, family, coworkers and people in our social media circles to do the same.
+- We will offer alternatives to these low-quality news sources and provide people with the tools to critically evaluate sources of news.
 
-```markdown
-Syntax highlighted code block
+## What are some resources I can use to do my part?
 
-# Header 1
-## Header 2
-### Header 3
+This website, https://www.idontbuyit.org, for starters.
 
-- Bulleted
-- List
+https://grabyourwallet.org/ - a spreadsheet of companies supporting specifically Trump and Fox News, two common sources of false, misleading, polarizing and alarmist propaganda.
 
-1. Numbered
-2. List
+https://www.mediamatters.org/research/2017/05/23/these-are-sean-hannitys-advertisers/216607 - An article outlining the advertisers for the Fox Network personality Sean Hannity.  Media Matters for America is a Web-based, not-for-profit, 501(c)(3) progressive research and information center dedicated to comprehensively monitoring, analyzing, and correcting conservative misinformation in the U.S. media.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/idontbuyit/idontbuyit.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://www.reddit.com/r/weaponizedconsumers/ - A subreddit for discussing this movement.

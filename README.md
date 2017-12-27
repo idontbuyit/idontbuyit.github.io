@@ -12,10 +12,10 @@ As an organized group centered around a common goal, we will do the following th
 
 ## What are some resources I can use to do my part?
 
-This website, https://www.idontbuyit.org, for starters.
+This website, [https://www.idontbuyit.org](https://www.idontbuyit.org), for starters.
 
-https://grabyourwallet.org/ - a spreadsheet of companies supporting specifically Trump and Fox News, two common sources of false, misleading, polarizing and alarmist propaganda.
+[https://grabyourwallet.org/](https://grabyourwallet.org/) - a spreadsheet of companies supporting specifically Trump and Fox News, two common sources of false, misleading, polarizing and alarmist propaganda.
 
-https://www.mediamatters.org/research/2017/05/23/these-are-sean-hannitys-advertisers/216607 - An article outlining the advertisers for the Fox Network personality Sean Hannity.  Media Matters for America is a Web-based, not-for-profit, 501(c)(3) progressive research and information center dedicated to comprehensively monitoring, analyzing, and correcting conservative misinformation in the U.S. media.
+[https://www.mediamatters.org/research/2017/05/23/these-are-sean-hannitys-advertisers/216607](https://www.mediamatters.org/research/2017/05/23/these-are-sean-hannitys-advertisers/216607) - An article outlining the advertisers for the Fox Network personality Sean Hannity.  Media Matters for America is a Web-based, not-for-profit, 501(c)(3) progressive research and information center dedicated to comprehensively monitoring, analyzing, and correcting conservative misinformation in the U.S. media.
 
-https://www.reddit.com/r/weaponizedconsumers/ - A subreddit for discussing this movement.
+[https://www.reddit.com/r/weaponizedconsumers/](https://www.reddit.com/r/weaponizedconsumers/) - A subreddit for discussing this movement.
